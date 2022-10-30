@@ -14,12 +14,21 @@
          "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/Sg%20True%20free.ovpn"
       },
 {
-         "name": "02. SG-DtacNoPro-Vip-2",
+         "name": "02. Th-DtacNoPro-Free-2",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/vpnplusDtac.ovpn?token=GHSAT0AAAAAAB2KUGDG5U55RCGGQF3WSFRWY22AEBQ"
+      },
+
+{
+         "name": "02. Th-TrueNoPro-Free-2",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus-json/main/vpnplusTrue.ovpn"
+      }
+{
+         "name": "03. SG-DtacNoPro-Vip-3",
          "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/Sg%20Dtac%20vip.ovpn"
       },
 
 {
-         "name": "02. SG-TrueNoPro-Vip-2",
+         "name": "03. SG-TrueNoPro-Vip-3",
          "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/Sg%20True%20Vip.ovpn"
       }
 
