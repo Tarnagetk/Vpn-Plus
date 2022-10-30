@@ -6,43 +6,16 @@
 
 {
          "name": "01. TH-DtacNoPro-Free-1",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/-/main/Dtac%20.VpnPlaus.ovpn"
+         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/Sg%20Dtac%20free.ovpn"
       },
 
 {
          "name": "01. TH-TrueNoPro-Free-1",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/-/main/True%20.VpnPlaus.ovpn"
-      },
-{
-         "name": "02. TH-DtacNoPro-VIP-2",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPS-Vip-only/main/002.TH.Dtac.VIP.ovpn.ovpn"
-      },
-
-{
-         "name": "02. TH-TrueNoPro-VIP-2",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPS-Vip-only/main/002.TH.True.VIP.ovpn.ovpn"
-      },
-
-{
-         "name": "02. TH-AisNoPro-VIP-2",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPS-Vip-only/main/002.TH.Ais.VIP.ovpn.ovpn"
-      },
-
-{
-         "name": "03. TH-DtacNoPro-VIP-3",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/-/main/%F0%9F%87%B9%F0%9F%87%AD02.TH-Dtac-VIP.ovpn"
-      },
-{
-         "name": "03. TH-TrueNoPro-VIP-3",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/-/main/%F0%9F%87%B9%F0%9F%87%AD02.TH-True-VIP.ovpn"
-      },
-{
-         "name": "01. TH-AisNoPro-Free-1",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/-/main/Ais%20.VpnPlaus.ovpn"
+         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/Sg%20True%20free.ovpn"
       }
 
    ],
-"message":"🚀 Update version - 9 \n•📆 Latest update - October 16 2022 \n• Thai server has been added for free. \n• Vip server can be purchased and supported. Free has ads and you can click Add Time, you can use it for 2 hours after clicking once. \n• Vip does not need to watch ads. , line is better than free",  
+"message":"🚀 Update version - 1 \n•📆 Latest update - October 16 2022 \n• Add new Server \n•Signapore",  
    "title":"Do you want to update?",
-   "version": 9
+   "version": 1
 }
