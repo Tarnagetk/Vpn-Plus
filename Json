@@ -5,14 +5,24 @@
 
 
 {
-         "name": "01. TH-DtacNoPro-Free-1",
+         "name": "01. Sg-DtacNoPro-Free-1",
          "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/Sg%20Dtac%20free.ovpn"
       },
 
 {
-         "name": "01. TH-TrueNoPro-Free-1",
+         "name": "01. Sg-TrueNoPro-Free-1",
          "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/Sg%20True%20free.ovpn"
+      },
+{
+         "name": "02. Sg-DtacNoPro-Vip-1",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/Sg%20Dtac%20vip.ovpn"
+      },
+
+{
+         "name": "02. Sg-TrueNoPro-Vip-1",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/Sg%20True%20Vip.ovpn"
       }
+
 
    ],
 "message":"🚀 Update version - 1 \n•📆 Latest update - October 16 2022 \n• Add new Server \n•Signapore",  
