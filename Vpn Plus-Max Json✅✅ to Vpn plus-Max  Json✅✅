@@ -5,76 +5,59 @@
 
 
 {
-         "name": "01. 🇸🇬Singapore (Dtac & True)VIP-1",
+         "name": "01. SG-(Dtac & True)-VIP-1",
          "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/Sg1.ovpn"
       },
 
 
 {
-         "name": "02. 🇸🇬Singapore (Dtac & True) Free",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/Free%2002.ovpn"
-      },
-
-{
-         "name": "03. 🇸🇬Singapore (Dtac & True) Free",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/Free%2003.ovpn"
-      },
-
-{
-         "name": "04. 🇸🇬Singapore (Dtac & True) Free",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/tar.VPN.ovpn"
-      },
-
-{
-         "name": "05. 🇸🇬Singapore (Dtac & True) VIP-5",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPS-Vip-only/main/SG.0008899.ovpn"
-      },
-{
-         "name": "06. 🇸🇬Singapore (Dtac & True) Free-6",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/06.Vpnplus-Free.ovpn"
-      },
-{
-         "name": "07. 🇸🇬Singapore (Dtac & True) VIP-7",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/SG-VIP%2007%20tar.ovpn"
-      },
-{
-         "name": "08. 🇹🇭Thailand ( Dtac ) VIP-8",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPS-Vip-only/main/TH-%F0%9F%8E%AEt.ovpn"
-      },
-
-{
-         "name": "09. 🇹🇭Thailand ( True ) VIP-9",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPS-Vip-only/main/TH-%F0%9F%8E%AEt.ovpn"
-      },
-{
-         "name": "10. 🇹🇭Thailand ( Dtac+True ) VIP-10",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/server3_10.ovpn"
-      },
-{
-         "name": "11. 🇹🇭Thailand ( Dtac+True ) VIP-11",
+         "name": "02. TH-(Dtac & True)-VIP-2",
          "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/TH%20%F0%9F%8E%AE%F0%9F%8E%AE%F0%9F%8E%AE.ovpn"
       },
 
+
 {
-         "name": "12. 🇹🇭Thailand ( Dtac+True ) VIP-12",
+         "name": "04. TH-(Dtac & True)-VIP-4",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPS-Vip-only/main/TH-%F0%9F%8E%AEt.ovpn"
+      },
+
+{
+         "name": "03. TH-(Dtac & True)-VIP-3",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/TH-GAME-10-03.ovpn"
+      },
+
+{
+         "name": "04. TH-(Dtac & True)-VIP-4",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPS-Vip-only/main/TH-%F0%9F%8E%AEt.ovpn"
+      },
+{
+         "name": "05. TH-(Dtac & True)-VIP-5",
          "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/PHYO%20HTETH%20%F0%9F%8E%AEGame.ovpn"
       },
 
 {
-         "name": "13. 🇹🇭Thailand ( Dtac+True ) VIP-13",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/Server6_13.ovpn"
+         "name": "06. 🇹🇭TH-( Dtac+True ) VIP-06",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/TH.Game.NEWS.VIP%3D01.ovpn"
       },
+
 {
-         "name": "14. 🇹🇭Thailand ( Dtac+True ) VIP-14",
+         "name": "07. SG-(Dtac & True)-VIP-7",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/SG-VIP%2007%20tar.ovpn"
+      },
+
+{
+         "name": "08. TH-(Dtac & True)-VIP-8",
          "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/TH%20-GAME%2014%3D08.ovpn"
       },
 {
-         "name": "15. 🇹🇭Thailand ( Dtac+True ) VIP-15",
+         "name": "09. 🇹🇭Thailand ( Dtac+True ) VIP-09",
          "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/server15.ovpn"
       }
 
+
    ],
-"message":"🚀 Update version - 40 \n• 🇸🇬Singapore\n• 🇹🇭Thailand(🎮) \n•Thank for using our app🙆 ",
+"message":"🚀 Update version - 35 \n• 🇸🇬Singapore-4(free)\n• 🇹🇭Thailand-2(🎮) \n•Thank for using our app🙆 ",
    "title":"Do you want to update?",
-   "version": 40
+   "version": 35
 }
+
